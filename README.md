@@ -11,6 +11,9 @@ Aspiring Data Scientist with 11 months of experience in Data Science Trainee and
 * 🧠  I'm learning Business Intelligence using Excel, Data Science Masters And Microsoft Certification on Business Analyst
 * 🤝  I'm open to collaborating on Data Analyst Project using Python, Excel, SQL, Power BI
 
+<a href="https://www.github.com/Akshay2515" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Akshay2515?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 
@@ -27,8 +30,6 @@ Aspiring Data Scientist with 11 months of experience in Data Science Trainee and
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshay2515&repo=Business_Intelligence_dashboards&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Akshay2515/EDA_And_Feature_Engineering_on_Flight_Price_prediction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshay2515&repo=EDA_And_Feature_Engineering_on_Flight_Price_prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshay2515&repo=Excel_Sales_And_Finance_Analytics&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Akshay2515/Walmart_Sales_Analysis_SQL_Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshay2515&repo=Walmart_Sales_Analysis_SQL_Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Akshay2515/EDA_Project_Student_performance_Indicator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshay2515&repo=EDA_Project_Student_performance_Indicator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/Akshay2515/Cricket_Data_Analytics_Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshay2515&repo=Cricket_Data_Analytics_Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
